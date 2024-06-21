@@ -50,7 +50,3 @@ All configuration variables (Google Cloud credentials path, MySQL host, user, pa
 Jonay Sosa
 
 Follow my [Medium](https://medium.com/@jonay.sosag) for more tech content.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
